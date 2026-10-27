@@ -8,8 +8,6 @@
   <a href="https://prashantchaudhari.dev">prashantchaudhari.dev</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/pandaa880">X</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:prashantchaudhari881@gmail.com">Email</a>
 </p>
 
 ---
