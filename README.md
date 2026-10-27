@@ -14,7 +14,7 @@
 
 ---
 
-Senior frontend engineer based in Bengaluru, India. I work on **real-time trading UIs,
+Senior frontend engineer based in India. I work on **real-time trading UIs,
 private-credit infrastructure, TEE-backed oracles, and on-chain attestation on Solana**.
 
 ## How I Think About Fintech Products
