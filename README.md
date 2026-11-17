@@ -8,6 +8,8 @@
   <a href="https://prashantchaudhari.dev">prashantchaudhari.dev</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/pandaa880">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/prashant880/">LinkedIn</a>
 </p>
 
 ---
@@ -68,4 +70,8 @@ Frontend: React, TypeScript, Vite, Astro, Tailwind · Web3: Solana (Anchor), on-
 
 ## Contact
 
-Open to remote Solana / fintech frontend roles and collaborations on verifiable credit infrastructure.
+Open to remote frontend roles on Solana and fintech teams. Based in India (IST).
+
+- X: [@pandaa880](https://x.com/pandaa880)
+- LinkedIn: [prashant880](https://www.linkedin.com/in/prashant880/)
+- Site and blog: [prashantchaudhari.dev](https://prashantchaudhari.dev)
