@@ -38,14 +38,17 @@ against a funder's criteria inside an AWS Nitro enclave; the resulting tier is a
 Solana and verifiable by anyone.
 
 - Stack: TypeScript, Rust, Solana (Anchor), AWS Nitro / Marlin Oyster, React + Vite
-- Status (2026-10): v0.5.3, Colosseum hackathon entry, demo live with 30-min health monitor
+- Status (2026-11): v0.5.6, Colosseum hackathon entry, devnet demo live with a 30-min health monitor
 - License: Apache-2.0
 
 ## Other Work
 
-- **[depth-view](https://github.com/pandaa880/depth-view)**: real-time crypto market terminal (order book, trade tape, candles) streaming from Binance WebSocket, no backend. React, TypeScript.
+- **[depth-view](https://github.com/pandaa880/depth-view)**: real-time crypto market terminal streaming from Binance WebSocket, no backend. Work in progress: multiplexed socket with reconnect and live ticker grid done; order book, trade tape and chart next. React, TypeScript.
 - **[prashantchaudhari.dev](https://github.com/pandaa880/prashantchaudhari.dev)**: personal site and blog. Astro.
-- **Writing:** [Money without floats: parsing rupees as integer paise](https://prashantchaudhari.dev/posts/money-without-floats) (2026-10)
+- **Writing:**
+  - [Seven checks: verifying an AWS Nitro attestation in the browser](https://prashantchaudhari.dev/posts/seven-checks-nitro-attestation) (2026-11)
+  - [The browser doesn't trust the server: a Solana frontend that checks its own backend](https://prashantchaudhari.dev/posts/the-browser-doesnt-trust-the-server) (2026-10)
+  - [Money without floats: parsing rupees as integer paise](https://prashantchaudhari.dev/posts/money-without-floats) (2026-10)
 
 ## Stack
 
