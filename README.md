@@ -1,18 +1,20 @@
 <h1 align="center">Prashant Chaudhari</h1>
 
 <p align="center">
-  <b>Frontend engineer building verifiable fintech on Solana: interfaces that show their work.</b>
+  <b>Software engineer building verifiable fintech on Solana: interfaces that show their work.</b>
 </p>
 
 <p align="center">
   <a href="https://prashantchaudhari.dev">prashantchaudhari.dev</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/pandaa880">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/prashant880/">LinkedIn</a>
 </p>
 
 ---
 
-Senior frontend engineer based in India. I work on **real-time trading UIs,
+Senior software engineer based in India, frontend-heavy, working across the stack. I work on **real-time trading UIs,
 private-credit infrastructure, TEE-backed oracles, and on-chain attestation on Solana**.
 
 ## How I Think About Fintech Products
@@ -68,4 +70,8 @@ Frontend: React, TypeScript, Vite, Astro, Tailwind · Web3: Solana (Anchor), on-
 
 ## Contact
 
-Open to remote Solana / fintech frontend roles and collaborations on verifiable credit infrastructure.
+Open to remote software engineering or fullstack roles. Based in India (IST).
+
+- X: [@pandaa880](https://x.com/pandaa880)
+- LinkedIn: [prashant880](https://www.linkedin.com/in/prashant880/)
+- Site and blog: [prashantchaudhari.dev](https://prashantchaudhari.dev)
