@@ -1,7 +1,7 @@
 <h1 align="center">Prashant Chaudhari</h1>
 
 <p align="center">
-  <b>Frontend engineer building verifiable fintech on Solana: interfaces that show their work.</b>
+  <b>Software engineer building verifiable fintech on Solana: interfaces that show their work.</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-Senior frontend engineer based in India. I work on **real-time trading UIs,
+Senior software engineer based in India, frontend-heavy, working across the stack. I work on **real-time trading UIs,
 private-credit infrastructure, TEE-backed oracles, and on-chain attestation on Solana**.
 
 ## How I Think About Fintech Products
