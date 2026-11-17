@@ -1,7 +1,7 @@
 <h1 align="center">Prashant Chaudhari</h1>
 
 <p align="center">
-  <b>Software engineer building verifiable fintech on Solana: interfaces that show their work.</b>
+  <b>Software engineer building fintech on Solana, from backend to UI.</b>
 </p>
 
 <p align="center">
