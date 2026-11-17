@@ -70,7 +70,7 @@ Frontend: React, TypeScript, Vite, Astro, Tailwind · Web3: Solana (Anchor), on-
 
 ## Contact
 
-Open to remote frontend roles on Solana and fintech teams. Based in India (IST).
+Open to remote software engineering or fullstack roles. Based in India (IST).
 
 - X: [@pandaa880](https://x.com/pandaa880)
 - LinkedIn: [prashant880](https://www.linkedin.com/in/prashant880/)
