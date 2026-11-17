@@ -33,7 +33,7 @@ Trust should be checkable, not claimed:
 
 **[TEE Income Oracle](https://github.com/pandaa880/tee-income-oracle)** · [live demo](https://tee-income-oracle-web.vercel.app)
 
-Per-loan income receipts for NBFC funders. India's Account Aggregator bank data is checked
+Proof-of-reserves for loan books: per-loan income receipts for NBFC funders. India's Account Aggregator bank data is checked
 against a funder's criteria inside an AWS Nitro enclave; the resulting tier is attested on
 Solana and verifiable by anyone.
 
@@ -64,7 +64,7 @@ Frontend: React, TypeScript, Vite, Astro, Tailwind · Web3: Solana (Anchor), on-
 - Private credit and lending rails on Solana
 - TEE-backed oracles and verifiable off-chain computation
 - India's Account Aggregator ecosystem
-- High-frequency trading and market-data interfaces
+- Real-time trading and market-data interfaces
 
 ## Contact
 
